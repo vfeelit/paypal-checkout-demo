@@ -1,0 +1,10 @@
+{
+    "require": {
+        "paypal/paypal-checkout-sdk": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PayPal\\": "./lib/PayPal"
+        }
+    }
+}
